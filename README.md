@@ -63,7 +63,7 @@ The full analysis — including B**igQuery SQL code**, **screenshots**, and **bu
 * Count of orders grouped by **payment installment** numbers.
 
 ## 📎 Deliverables
-* 📄 All SQL queries (using **Google BigQuery**) and output screenshots are compiled in the **PDF report**.
+* 📄 All SQL queries (using **Google BigQuery**) and output screenshots are compiled in the **[PDF report](https://github.com/AkanshaSaini761/Target_SQL_Case_Study/blob/main/CaseStudy_TagretSQL_AkanshaSaini.pdf)**.
 * 💡 Final section of the PDF contains **strategic business insights** and **recommendations** based on the analysis.
 
 ## 📌 Notes
